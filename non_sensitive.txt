@@ -1,1 +1,2 @@
 Another file with non-sensitive data
+Some new data to be added here
